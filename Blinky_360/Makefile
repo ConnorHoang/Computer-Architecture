@@ -1,4 +1,4 @@
-filename = assign
+filename = Blinky_360
 pcf_file = ../common/iceBlinkPico.pcf
 
 build:
